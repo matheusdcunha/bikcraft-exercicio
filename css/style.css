@@ -2,7 +2,7 @@
 @import url(./utlidades/tipografia.css);
 @import url(./utlidades/cores.css);
 
-@import url(./global/header.css);
+@import url(../css/global/header.css);
 
 /* Utilidades */
 @import url(./utlidades/componentes.css);
