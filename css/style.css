@@ -8,6 +8,7 @@
 /* Utilidades */
 @import "./utlidades/componentes.css";
 @import "./utlidades/formulario.css";
+@import "./utlidades/animacao.css";
 
 /* Home */
 @import "./home/introducao.css";
